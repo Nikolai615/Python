@@ -7,7 +7,7 @@
 # - 7 -> да
 # - 1 -> нет
 
-day_number = int (input("Enter week day"))
+day_number = int (input("Enter week day: "))
 
 if 6 <= day_number <=7:
     print ("Выходной день")
